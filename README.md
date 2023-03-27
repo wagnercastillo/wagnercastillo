@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wagner</h1>
-<h2 align="center">A passionate developer</h2>
+<h3 align="center">A passionate developer</h3>
 
  <div align="center">
     <a href="https://www.linkedin.com/in/wagner-cristhoper-castillo-castro-4053aa209/"><img src="./assets/linkedin.png" ></a>&nbsp;&nbsp;&nbsp;
